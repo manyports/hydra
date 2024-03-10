@@ -1,0 +1,60 @@
+#content{
+    color: white;
+}
+#rocket-front-color{
+    width: 157.93px;
+    height: 137.93px;
+    left: 86px;
+    top: 229px;
+    margin-right: 10px;
+}
+#file-fav-front-color{
+    width: 139.93px;
+    height: 139.93px;
+    left: 106px;
+    top: 427px;
+    margin-right: 10px;
+}
+#medal-front-color{
+    width: 139.93px;
+    height: 139.93px;
+    left: 104px;
+    top: 625px;
+    margin-right: 10px;
+}
+#content h1{
+    font-size: 73px;
+    margin-left: 106px;
+}
+#block3{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 106px;
+    font-size: 22px;
+}
+#block3 img{
+    margin-right: 30px;
+}
+#block4{
+    display: flex;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 106px;
+    font-size: 22px;
+}
+#block4 img{
+    margin-right: 50px;
+}
+#block5{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 106px;
+    font-size: 22px;
+}
+#block5 img{
+    margin-right: 50px;
+}
+
