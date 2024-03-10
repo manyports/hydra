@@ -51,8 +51,8 @@ function App() {
 
   return (
     <>
-    <img src="./public/Cloudy.svg" id="cloudy1"></img>
-    <img src="./public/Cloudy22.svg" id="cloudy2"></img>
+    <img src="/Cloudy.svg" id="cloudy1"></img>
+    <img src="/Cloudy22.svg" id="cloudy2"></img>
     <Header />
     <Welcome />
     <Introduction />

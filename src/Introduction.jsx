@@ -7,11 +7,11 @@ function Introduction(){
         <div className="projects">
             <div className="project1">
                 <div className="background-1">
-                <img src="./public/Rectangle1.svg" id="rec1"></img>
+                <img src="/Rectangle1.svg" id="rec1"></img>
                 </div>
                 <div className="bg-decoration-1">
                  <div className="shield-container">
-                <img src="./public/sheild-front-color.svg" id="shield" ></img>
+                <img src="/sheild-front-color.svg" id="shield" ></img>
                 </div>
                 <div className="text-container1">
                 <h3 id="h3project1">Разработка фильтров для очистки воды в сельском хозяйстве</h3>
@@ -21,11 +21,11 @@ function Introduction(){
             </div>
             <div className="project2">
                 <div className="background-2">
-                    <img src="./public/Rectangle2.svg"></img>
+                    <img src="/Rectangle2.svg"></img>
                 </div>
                 <div className="bg-decoration-2">
                     <div className="settings-container">
-                        <img src="./public/setting-front-color.svg"></img>
+                        <img src="/setting-front-color.svg"></img>
                     </div>
                     <div className="text-container2">
                         <h3 id="h3project2">Разработка фильтров для очистки воды для бытового использования</h3>
