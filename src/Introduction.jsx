@@ -11,7 +11,7 @@ function Introduction(){
                 </div>
                 <div className="bg-decoration-1">
                  <div className="shield-container">
-                <img src="/hydra/sheild-front-color.svg" id="shield" ></img>
+                <img src="/sheild-front-color.svg" id="shield" ></img>
                 </div>
                 <div className="text-container1">
                 <h3 id="h3project1">Разработка фильтров для очистки воды в сельском хозяйстве</h3>
