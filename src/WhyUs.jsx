@@ -6,7 +6,7 @@ function WhyUs() {
             <div id="content">
                 <h1>Почему мы?</h1>
                 <div id="block3">
-                    <img src="/rocket-front-color.svg" id="rocket-front-color" alt="Ракета" />
+                    <img src="/hydra/rocket-front-color.svg" id="rocket-front-color" alt="Ракета" />
                     <p>
                         <b>Экспертиза и опыт:</b> Мы обладаем богатым опытом и глубокими знаниями в
                         области разработки и производства фильтров для очистки воды как для
@@ -16,7 +16,7 @@ function WhyUs() {
                     </p>
                 </div>
                 <div id="block4">
-                    <img src="/file-fav-front-color.svg" id="file-fav-front-color" alt="Файл" />
+                    <img src="/hydra/file-fav-front-color.svg" id="file-fav-front-color" alt="Файл" />
                     <p>
                         <b>Инновационные технологии:</b> Мы постоянно ищем новые методы и технологии,
                         чтобы улучшить наши продукты и обеспечить вас лучшими решениями для очистки воды.
@@ -25,7 +25,7 @@ function WhyUs() {
                     </p>
                 </div>
                 <div id="block5">
-                    <img src="/medal-front-color.svg" id="medal-front-color" alt="Медаль" />
+                    <img src="/hydra/medal-front-color.svg" id="medal-front-color" alt="Медаль" />
                     <p>
                         <b>Качество и надежность:</b> Мы стремимся к высочайшему качеству во всем, что
                         мы делаем. Наши фильтры проходят строгие проверки качества и сертификации,

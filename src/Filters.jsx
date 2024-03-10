@@ -4,7 +4,7 @@ function Filters() {
             <div id="content">
                 <h1>НАШИ СИСТЕМЫ ФИЛЬТРОВ</h1>
                 <div id="block1">
-                    <img src="/Rectangle 20.svg" id="picture1" alt="Фото 1" />
+                    <img src="/hydra/Rectangle 20.svg" id="picture1" alt="Фото 1" />
                     <p>
                         <span className="yellow-text">AquaSabbath</span> - это инновационная <br />
                         система фильтров, разработанная<br />
@@ -34,7 +34,7 @@ function Filters() {
                         поддерживая высокий уровень чистоты и <br />
                         качества воды.<br />
                     </p>
-                    <img src="/Rectangle 21.svg" id="picture2" alt="Фото 2" />
+                    <img src="/hydra/Rectangle 21.svg" id="picture2" alt="Фото 2" />
                 </div>
             </div>
         </div>
